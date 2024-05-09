@@ -1,0 +1,23 @@
+'#################### LISTA DE SPAWN #############################
+[INIT]
+NumNPCs=6
+
+
+[LIST]
+NI1=116
+NN1=Vendedor de Pasajes Nix
+
+NI2=118
+NN2=Vendedor de Pasajes Nueva
+
+NI3=117
+NN3=Vendedor de Pasajes Arghal
+
+NI4=119
+NN4=Vendedor de Pasajes Rinkel
+
+NI5=120
+NN5=Vendedor de Pasajes Banderbill
+
+NI6=121
+NN6=Vendedor de Pasajes Lindos
